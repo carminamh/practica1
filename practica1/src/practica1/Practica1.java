@@ -22,6 +22,8 @@ public class Practica1 {
         System.out.println("verde");
         System.out.println("rojo");
         System.out.println("verde");
+        System.out.println("tres");
+        System.out.println("cuatro");
     }
     
 }
