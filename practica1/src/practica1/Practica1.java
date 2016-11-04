@@ -18,6 +18,10 @@ public class Practica1 {
         // TODO code application logic here
         System.out.println("rojo");
         System.out.println("verde");
+        System.out.println("rojo");
+        System.out.println("verde");
+        System.out.println("rojo");
+        System.out.println("verde");
     }
     
 }
